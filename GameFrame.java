@@ -382,7 +382,7 @@ public class GameFrame extends JFrame {
 
                             }
                             hit = true;
-                            if (Math.abs(lastLineHeight - lineHeight) * rayDist > 57) {
+                            if (Math.abs(lastLineHeight - lineHeight) * rayDist > 66&&lineHeight<1000) {
                                 board.setColor(Color.black);
                                 board.fillRect(i - 4, 0, 5, 922);
 
