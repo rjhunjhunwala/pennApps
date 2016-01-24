@@ -4,7 +4,7 @@
 
 <h3 id="inspiration">Inspiration</h3>
 
-<p>Thereâ€™s so much violence and hate in this world, and itâ€™s really stressing everybody out. We decided we needed to create a way for people to let out their stress in a way that doesnâ€™t hurt others. Also, itâ€™s only a matter of time before the zombie apocalypse, and thatâ€™s pretty stressful too.</p>
+<p>There's so much violence and hate in this world, and it's really stressing everybody out. We decided we needed to create a way for people to let out their stress in a way that doesn't hurt others. Also, itâ€™s only a matter of time before the zombie apocalypse, and that's pretty stressful too.</p>
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-<h3 id="accomplishments-that-were-proud-of">Accomplishments That Weâ€™re Proud Of</h3>
+<h3 id="accomplishments-that-were-proud-of">Accomplishments That We're Proud Of</h3>
 
 <ol>
 <li>Managing to design, create, and submit an entry with a team of first-time hackers without mentors.</li>
@@ -49,7 +49,7 @@
 
 
 
-<h3 id="whats-next-for-stress-penguin">Whatâ€™s Next For Stress Penguin</h3>
+<h3 id="whats-next-for-stress-penguin">What's Next For Stress Penguin</h3>
 
 <ol>
 <li>Make the game run more efficiently.</li>
