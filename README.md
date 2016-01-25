@@ -44,7 +44,6 @@
 <ol>
 <li>How raycasting works.</li>
 <li>Playing computer games is more fun using a penguin as a controller controller than a keyboard.</li>
-<li></li>
 </ol>
 
 
